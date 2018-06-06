@@ -1,5 +1,7 @@
 # VR Guidelines
-VR Guidelines. Best practices. Sketch, Illustrator and Unity3D templates files.  
+  Guidelines and stencils to create VR apps and experience.
+  Best practices.
+  Sketch, Illustrator and Unity3D templates files.  
 
 # Goals
 1. Share knowledge
@@ -12,14 +14,15 @@ VR Guidelines. Best practices. Sketch, Illustrator and Unity3D templates files.
 ## Typography
 ## Color Palette
 ## UI Components
-## Layouts [ Examples ]
+## Layouts
+- Examples
 
 # Stencils
 ## Sketch
-- [ ] to-do
+- [ ] To-do
 
 ## Adobe Illustrator
-- [ ] to-do
+- [ ] To-do
 
 ## Unity3D
-- [ ] to-do
+- [ ] To-do
