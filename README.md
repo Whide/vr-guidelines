@@ -10,16 +10,26 @@
 
 # Contents
 ## Grids & Field of View
+- [ ] To-do
+
 ## Distance
+- [ ] To-do
+
 ## Typography
+- [ ] To-do
+
 ## Color Palette
+- [ ] To-do
+
 ## UI Components
+- [ ] To-do
+
 ## Layouts
-- Examples
+- [ ] Examples (To-do)
 
 # Stencils
 ## Sketch
-- [x] [Daydream](https://github.com/Whide/vr-guidelines/raw/master/Stencils/VRDaydream/daydream_stickersheet_components_20170517.sketch)
+- [x] [Daydream](https://github.com/Whide/vr-guidelines/raw/master/Stencils/Daydream/stencils-sketch-daydream.sketch)
 - [ ] Samsung Gear VR (To-do)
 
 ## Adobe Illustrator
@@ -28,4 +38,4 @@
 
 ## Unity3D
 - [ ] Daydream (To-do)
-- [ ] Samsung Gear VR (To-do)
+- [x] [Samsung Gear VR](https://github.com/Whide/vr-guidelines/tree/master/Stencils/SamsungGearVR/stencils-unity3d-gear-vr) (WIP)
