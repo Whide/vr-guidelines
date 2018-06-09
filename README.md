@@ -19,7 +19,7 @@
 
 # Stencils
 ## Sketch
-- [x] [Daydream](…/Stencils/VRDaydream/daydream_stickersheet_components_20170517.sketch)
+- [x] [Daydream](https://github.com/Whide/vr-guidelines/raw/master/Stencils/VRDaydream/daydream_stickersheet_components_20170517.sketch)
 - [ ] Samsung Gear VR (To-do)
 
 ## Adobe Illustrator
