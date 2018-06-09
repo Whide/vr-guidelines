@@ -8,7 +8,7 @@
 2. Allow collaborate
 3. Learn and learn
 
-# Index
+# Contents
 ## Grids & Field of View
 ## Distance
 ## Typography
@@ -19,10 +19,13 @@
 
 # Stencils
 ## Sketch
-- [ ] To-do
+- [x] [Daydream](…/Stencils/VRDaydream/daydream_stickersheet_components_20170517.sketch)
+- [ ] Samsung Gear VR (To-do)
 
 ## Adobe Illustrator
-- [ ] To-do
+- [ ] Daydream (To-do)
+- [ ] Samsung Gear VR (To-do)
 
 ## Unity3D
-- [ ] To-do
+- [ ] Daydream (To-do)
+- [ ] Samsung Gear VR (To-do)
