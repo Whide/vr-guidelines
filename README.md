@@ -8,34 +8,34 @@
 2. Allow collaborate
 3. Learn and learn
 
-# Contents
-## Grids & Field of View
+# 1. Contents
+## 1.1 Grids & Field of View
 - [ ] To-do
 
-## Distance
+## 1.2 Distance
 - [ ] To-do
 
-## Typography
+## 1.3 Typography
 - [ ] To-do
 
-## Color Palette
+## 1.4 Color Palette
 - [ ] To-do
 
-## UI Components
+## 1.5 UI Components
 - [ ] To-do
 
-## Layouts
+## 1.6 Layouts
 - [ ] Examples (To-do)
 
-# Stencils
-## Sketch
+# 2. Stencils
+## 2.1 Sketch
 - [x] [Daydream](https://github.com/Whide/vr-guidelines/raw/master/Stencils/Daydream/stencils-sketch-daydream.sketch)
 - [ ] Samsung Gear VR (To-do)
 
-## Adobe Illustrator
+## 2.3 Adobe Illustrator
 - [ ] Daydream (To-do)
 - [ ] Samsung Gear VR (To-do)
 
-## Unity3D
+## 2.4 Unity3D
 - [ ] Daydream (To-do)
 - [x] [Samsung Gear VR](https://github.com/Whide/vr-guidelines/tree/master/Stencils/SamsungGearVR/stencils-unity3d-gear-vr) (WIP)
